@@ -1,0 +1,16 @@
+{
+  "editable": [
+    "main.*",
+    "chat.*",
+    "specifications/env.json",
+    "answer.md"
+  ],
+  "allowNewFile": true,
+  "exclude": [
+    "challenge.json"
+  ],
+  "readme": {
+    "en": "readme.md",
+    "ja": "readme_ja.md"
+  }
+}

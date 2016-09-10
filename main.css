@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+span.chat {
+  display: block;
+}
+
+span.to-them {
+  color: red;
+}
+
+span.from-them {
+  color: blue;
+}
